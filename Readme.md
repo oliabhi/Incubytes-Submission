@@ -18,8 +18,8 @@
 
 **Tools & Technologies:**
 - Python 
-- [MySQL Workbench]https://www.mysql.com/products/workbench/
-- [XAMPP Server]https://www.apachefriends.org/download.html
+- [MySQL Workbench](https://www.mysql.com/products/workbench/)
+- [XAMPP Server](https://www.apachefriends.org/download.html)
 - [Pandas](https://pandas.pydata.org/docs/)
 - [Conda Environment](https://conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#activating-an-environment)
 - [MySQL connector](https://dev.mysql.com/doc/connector-python/en/connector-python-introduction.html)
